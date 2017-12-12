@@ -1,0 +1,10 @@
+1 : Warning: class T is missing __init__ method at lineno 1
+2 : Warning: unused arguments ['z'] found in function test_while_if at lineno 2
+5 : Warning: unused arguments ['w'] found in function test_while_if_2 at lineno 5
+8 : Warning: unused arguments ['w', 'y', 'z'] found in function test_while_if_3 at lineno 8
+11 : Warning: unused arguments ['y', 'z'] found in function test_return at lineno 11
+13 : Warning: unused arguments ['z'] found in function test_return_1 at lineno 13
+15 : Warning: unused arguments ['y', 'z'] found in function test_for_1 at lineno 15
+18 : Warning: unused arguments ['y', 'z'] found in function test_for_2 at lineno 18
+21 : Warning: unused arguments ['z'] found in function test_value_1 at lineno 21
+27 : Warning: unused variable name t at lineno 27
